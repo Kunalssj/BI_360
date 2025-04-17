@@ -180,7 +180,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+![image alt](https://github.com/Kunalssj/BI_360/blob/d8e33657d2b75396553e29e5d6e9ed00b3a0ee5b/Data_model.png)
 
 ## Info Page
 
